@@ -5,11 +5,11 @@ Contaí é o aplicativo que simplifica sua rotina financeira. Com uma interface 
 1. Quiz Inicial de Onboarding
    (Identifica hábitos, objetivos e perfil do usuário.)
 3. Chatbot Interativo
-   O usuário conversa diretamente com o bot para consultar ou registrar informações financeiras.
+   (O usuário conversa diretamente com o bot para consultar ou registrar informações financeiras.)
 4. IA de Categorização Automática
-   Classificação inteligente e organização de gastos sem esforço manual.
+   (Classificação inteligente e organização de gastos sem esforço manual.)
 5. Relatórios Automatizados
-   Entregues em formato diário, semanal e mensal, com insights personalizados.
+   (Entregues em formato diário, semanal e mensal, com insights personalizados.)
 
 # Diferenciais
 
