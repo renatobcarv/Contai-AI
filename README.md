@@ -3,7 +3,7 @@ Contaí é o aplicativo que simplifica sua rotina financeira. Com uma interface 
 
 # 🌐 Como Funciona
 1. Quiz Inicial de Onboarding
-   Identifica hábitos, objetivos e perfil do usuário.
+   (Identifica hábitos, objetivos e perfil do usuário.)
 3. Chatbot Interativo
    O usuário conversa diretamente com o bot para consultar ou registrar informações financeiras.
 4. IA de Categorização Automática
