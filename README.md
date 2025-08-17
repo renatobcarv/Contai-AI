@@ -1,7 +1,7 @@
 # Contaí
 Contaí é o aplicativo que simplifica sua rotina financeira. Com uma interface intuitiva e interativa, ele usa Inteligência Artificial para organizar e categorizar seus gastos automaticamente, entregando relatórios diários, semanais e mensais para você ter controle total do seu dinheiro.
 
-# 🌐 Como Funciona
+# Como Funciona
 1. Quiz Inicial de Onboarding
    (Identifica hábitos, objetivos e perfil do usuário.)
 3. Chatbot Interativo
