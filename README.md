@@ -38,4 +38,4 @@ Contaí Pro: metas financeiras e previsões preditivas.
 Dashboard web para consultores e empresas.
 
 # Licença
-(Este projeto está sob a MIT License.)
+*(Este projeto está sob a MIT License.)*
