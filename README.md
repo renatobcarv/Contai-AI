@@ -1,4 +1,7 @@
-<img width="500" height="500" alt="contai" src="https://github.com/user-attachments/assets/77f9c562-9731-461b-bcac-ec1025dd75d2" />
+<img width="1400" height="1600" alt="Prancheta 1" src="https://github.com/user-attachments/assets/bcec3127-4b36-44f4-a6b2-2a041247ce80" />
+<img width="1400" height="1600" alt="Prancheta 2" src="https://github.com/user-attachments/assets/bba79014-1fe7-40d1-84af-a69b874acc4d" />
+<img width="1400" height="1600" alt="Prancheta 3" src="https://github.com/user-attachments/assets/d740f9f1-ad5d-4753-bd4e-0453bfcea149" />
+
 
 # Contaí
 Contaí é o aplicativo que simplifica sua rotina financeira. Com uma interface intuitiva e interativa, ele usa Inteligência Artificial para organizar e categorizar seus gastos automaticamente, entregando relatórios diários, semanais e mensais para você ter controle total do seu dinheiro.
